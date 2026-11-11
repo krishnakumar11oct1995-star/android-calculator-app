@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/logo.svg" alt="android-calculator-app Logo" width="160" />
+</p>
+
 # Android Calculator App
 
 > Clean, minimalist native Android calculator application.

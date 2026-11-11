@@ -5,3 +5,7 @@ build/
 app/build/
 local.properties
 *.log
+
+!assets/logo.svg
+!assets/
+!assets/**
